@@ -36,7 +36,10 @@ let usuario2 = {
     sueldo: 1200,
 };
 
+
 Object.setPrototypeOf(usuario2, usuario1);
+
+
 
 console.log('Usuario 2');
 console.log(usuario2.profesion);

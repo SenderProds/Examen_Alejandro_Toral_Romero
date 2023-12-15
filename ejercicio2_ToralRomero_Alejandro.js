@@ -77,6 +77,8 @@ console.log(numerosImpares.reduce((contador, numero) => (contador + numero), 0))
 
 
 
+
+///Maximo y Minimo de la matriz de pares
 let numeroMax = 0;
 
 
@@ -97,6 +99,8 @@ console.log(`Matriz Pares:  Max:${numeroMax} Min:${numeroMin}`);
 
 
 
+
+//Maximo y minimo de la matrix de impares
 
 let numeroMaxImpares = 0;
 
