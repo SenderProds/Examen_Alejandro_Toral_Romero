@@ -1,0 +1,19 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenderProds/Examen_Alejandro_Toral_Romero.git"
+  },
+  "author": "Alejandro Toral Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SenderProds/Examen_Alejandro_Toral_Romero/issues"
+  },
+  "homepage": "https://github.com/SenderProds/Examen_Alejandro_Toral_Romero#readme"
+}
